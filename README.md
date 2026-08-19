@@ -17,15 +17,15 @@
 
 <h3 align="center">Practice Repositories</h3>
 <p align="center">
-  <a href="https://github.com/khairulhoque-cs/freecodecamp">
+  <a href="https://github.com/khairulhoque-cs/freecodecamp-solutions">
     <img src="https://img.shields.io/badge/freeCodeCamp-rgb(10%2C10%2C35)?logo=freecodecamp&logoColor=white">
   </a>
   
-  <a href="https://github.com/khairulhoque-cs/hackerrank">
+  <a href="https://github.com/khairulhoque-cs/hackerrank-solutions">
     <img src="https://img.shields.io/badge/HackerRank-rgb(46%2C200%2C102)?logo=hackerrank&logoColor=white">
   </a>
 
-  <a href="https://github.com/khairulhoque-cs/exercism">
+  <a href="https://github.com/khairulhoque-cs/exercism-solutions">
     <img src="https://img.shields.io/badge/Exercism-rgb(0%2C156%2C171)?logo=exercism&logoColor=white">
   </a>
 </p>
