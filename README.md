@@ -12,3 +12,29 @@
   </ul>
 </div>
 <br clear="all">
+
+---
+
+<h3 align="center">Practice Repositories</h3>
+<p align="center">
+  <a href="https://github.com/khairulhoque-cs/hackerrank">
+    <img src="https://img.shields.io/badge/HackerRank-rgb(46%2C200%2C102)?logo=hackerrank&logoColor=white">
+  </a>
+
+  <a href="https://github.com/khairulhoque-cs/exercism">
+    <img src="https://img.shields.io/badge/Exercism-rgb(0%2C156%2C171)?logo=exercism&logoColor=white">
+  </a>
+  
+ 
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairulhoque-cs&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khairulhoque-cs&style=flat-square&color=blue"/>
+</p>
