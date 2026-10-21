@@ -65,8 +65,9 @@
 
 | Sr. No. | Project Name | Technologies Used | Live Demo |
 | :---: | :--- | :--- | :---: |
-| 1 | **Weather App** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](YOUR_LINK) |
-| 2 | **Tic Tac Toe** | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](YOUR_LINK) |
+| 1 | **FishAdda** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)| [![LIVE](https://img.shields.io/badge/LIVE-555555?style=for-the-badge)](https://fishadda.onrender.com/) [![CODE](https://img.shields.io/badge/CODE-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khairulhoque-cs/FishAdda) |
+| 2 | **Weather App** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](YOUR_LINK) |
+| 3 | **Tic Tac Toe** | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](YOUR_LINK) |
 
 <h3>⚡ Full-Stack Projects</h3>
 
